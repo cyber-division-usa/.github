@@ -35,28 +35,11 @@ Fractional CTO and engineering leadership covering architecture, delivery proces
 ### 📦 Product offerings
 Packaged engagements with a stated scope, timeline and price. These are the same services, bought as a product.
 
-## Engagements
-
-| Retainer | Stage | Hours / month | Monthly |
-| --- | --- | :-: | --: |
-| Essentials | Seed / Series A | 10 | $5,000 |
-| Growth | Series A / B | 20 | $10,000 |
-| Enterprise | Series B+ | 40 | $15,000 |
-
-| Bundle | Delivers | Price |
-| --- | --- | --: |
-| Compliance Accelerator | SOC 2 in 90 days | $55,000 |
-| Cloud Fortress | AWS hardening and DevSecOps | $48,000 |
-| Resilience Shield | Incident response and continuity | $45,000 |
-| AI-Ready Security | Ship models with the controls in place | $42,000 |
-
-Standalone projects start at $8,000, including SOC 2 readiness, ISO 27001, FedRAMP readiness, penetration testing and AI governance. See the full [service catalog](https://cyberdivision.org/catalog.html).
-
 ## Products
 
 **[cercl](https://cyberdivision.org/cercl.html)**: encrypted collaboration for high-stakes operations. Messages, calls, meetings, files and tasks share one workspace, encrypted end to end using the Signal Protocol's Double Ratchet. It runs on FIPS 140-3 validated cryptographic modules with bring-your-own-key, and it is built for government and regulated industries.
 
-**[stat.us](https://cyberdivision.org/stat-us.html)**: one agent for endpoint compliance. A single install covers device management, antivirus, DNS firewall and central logging, and each capability maps to SOC 2 and ISO 27001 Annex A controls.
+**[statos](https://cyberdivision.org/statos.html)**: one agent for endpoint compliance. A single install covers device management, antivirus, DNS firewall and central logging, and each capability maps to SOC 2 and ISO 27001 Annex A controls.
 
 ## How we work
 
